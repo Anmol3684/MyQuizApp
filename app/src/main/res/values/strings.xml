@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My quiz app</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+
+    <string name="incorrect_toast">You can do better 😫</string> <!--toast -->
+    <string name="correct_toast">You got it! 😍</string> <!--toast -->
+
+
+    <string name="scores">Score 0/10</string>
+    <string name="question_1"> MandM stands for Mars and Morale</string>
+    <string name="question_2">The unicorn is the national animal of Scotland</string>
+    <string name="question_3">A lion\'s roar can be heard up to eight kilometres away</string>
+    <string name="question_4">There are five different blood groups</string>
+    <string name="question_5">Monaco is the smallest country in the world</string>
+    <string name="title_1">Get the Average</string>
+    <string name="title_2">Select the number of Questions</string>
+    <string name="title_3">Reset the saved Results </string>/>
+    <string name="title_4">Change the language </string>/>
+</resources>
